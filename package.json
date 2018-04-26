@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DimaZi/background-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "uniq": "^1.0.1"
   }
 }
